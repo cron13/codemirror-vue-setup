@@ -1,5 +1,6 @@
 # codemirror-vue-setup
 
+```
 "dependencies": {
     "codemirror": "^5.46.0",
     "codemirror-colorpicker": "^1.9.50",
@@ -9,5 +10,6 @@
     "imports-loader": "^0.8.0",
     "lodash": "^4.17.11",
 },
+```
 
 pay attention to codemirror.js: const ternServer = new CodeMirror.TernServer({
